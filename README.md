@@ -1,0 +1,1 @@
+# Scraping-G-shock-data-from-eMAG
